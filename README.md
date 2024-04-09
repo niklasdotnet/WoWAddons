@@ -1,1 +1,4 @@
 # WoWAddons
+
+**WotLK:**
+- AutoRole
