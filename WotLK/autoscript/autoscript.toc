@@ -1,3 +1,0 @@
-## Interface: 100200
-## Title: Patatosa: Auto Script
-core.lua
